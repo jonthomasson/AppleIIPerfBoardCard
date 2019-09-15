@@ -1,0 +1,12 @@
+(module proto_pad_square (layer F.Cu) (tedit 5D7E4EB2)
+  (descr "Through hole angled pin header, 1x01, 2.54mm pitch, 6mm pin length, single row")
+  (tags "Through hole angled pin header THT 1x01 2.54mm single row")
+  (fp_text reference REF** (at 4.385 -2.27) (layer F.SilkS) hide
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (fp_text value proto_pad_square (at 4.385 2.27) (layer F.Fab)
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (fp_line (start -0.32 -0.32) (end -0.32 0.32) (layer F.Fab) (width 0.1))
+  (pad 1 thru_hole rect (at 0 0) (size 1.7 1.7) (drill 1) (layers *.Cu *.Mask))
+)
