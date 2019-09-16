@@ -1,4 +1,4 @@
-20514683209248600
+20516251768021693
 6502Library
 1-1825027-1-TACTILE_SWITCH
 
@@ -594,6 +594,13 @@ AppleIIPerfBoardCard
 0
 50
 50
+AppleIIPerfBoardCard
+proto_pad_square
+Through hole angled pin header, 1x01, 2.54mm pitch, 6mm pin length, single row
+Through hole angled pin header THT 1x01 2.54mm single row
+0
+1
+1
 Battery
 BatteryHolder_Bulgin_BX0036_1xC
 Bulgin Battery Holder, BX0036, Battery Type C (https://www.bulgin.com/products/pub/media/bulgin/data/Battery_holders.pdf)
