@@ -24359,7 +24359,7 @@
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (gr_line (start 221.73184 137.79246) (end 223.3168 136.21004) (layer Edge.Cuts) (width 0.05))
-  (gr_line (start 159.10433 137.79246) (end 221.73819 137.79246) (layer Edge.Cuts) (width 0.05))
+  (gr_line (start 159.10052 137.79246) (end 221.73184 137.79246) (layer Edge.Cuts) (width 0.05))
   (gr_line (start 157.5308 136.21004) (end 159.10052 137.79246) (layer Edge.Cuts) (width 0.05))
   (gr_line (start 157.5308 130.14706) (end 157.5308 136.21004) (layer Edge.Cuts) (width 0.05))
   (gr_line (start 54.991 60.29706) (end 54.991 130.14706) (layer Edge.Cuts) (width 0.05))
